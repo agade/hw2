@@ -8,3 +8,10 @@ h1{
 		font-family: Broadway; Impact; Times New Roman;
 }
 
+
+#wrap { 
+	margin:0 auto; 
+	width:95%; 
+	text-align:left; 
+	border: 15px solid black; 
+	}
